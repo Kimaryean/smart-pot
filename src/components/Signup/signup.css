@@ -1,0 +1,103 @@
+.user{
+    position: absolute;
+  margin-bottom: 14px;
+  background: #ffffff;
+  border-radius: 15px;
+  top: 220px;
+  left: 664px;
+  width: 592px;
+  height: 89px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+
+}
+.sign{
+    position: absolute;
+    top: 700px;
+    left: 664px;
+    width: 592px;
+    height: 89px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+  
+    border-radius: 20px;
+    opacity: 1;
+    background: #add0c0;
+}
+
+.pwd{
+    position: absolute;
+    top: 332px;
+    left: 664px;
+    width: 592px;
+    height: 89px;
+    border-radius: 15px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+.re{
+    position: absolute;
+    top: 442px;
+    left: 664px;
+    width: 592px;
+    height: 89px;
+    border-radius: 15px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+
+}
+.name{
+
+    position: absolute;
+    top: 552px;
+    left: 664px;
+    width: 592px;
+    height: 89px;
+    border-radius: 15px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+.img {
+    widows: 313px;
+    height: 555px;
+    position: absolute;
+    left: 1450px;
+    margin-top: 350px;
+  }
+  .cart {
+    widows: 313px;
+    height: 555px;
+    position: absolute;
+    left: 1105px;
+    margin-top: 390px;
+
+    
+  }
+  .gr {
+    widows: 323px;
+    height: 575px;
+    position: absolute;
+    left: 15px;
+    top: 440px;
+  }
+  .gsm {
+    width: 290px;
+    height: 150px;
+    margin-left: 770px;
+    margin-top: 160px;
+  }
+  .pot{
+    position: absolute;
+    left:33px;
+  }
+  .smartpot{
+    position: absolute;
+    left:123px;
+    width:100px;
+    height: 50px;
+    top : 1%;
+  }
+  

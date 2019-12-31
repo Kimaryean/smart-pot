@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    align-items: center;
+   
+}
+
+.signin{
+        right:0;
+        padding:0.4375rem 1.0625rem;
+        line-height:normal;
+        font-weight:400;
+        border-radius:0.18;
+        background:var(--main-green);
+        position:absolute;
+        translate:transform(-50%, -50%);
+        
+        transition:background 0.2s ease-in;
+        color:#fff;
+        border:0;
+        outline:0;
+        margin-right: 3%;
+       
+  }
+  :root{
+    --main-green:rgba(139,195,74);
+    --main-dark:rgba(20,20,20);
+    --main-deep-dark:rgba(0,0,0);
+    --main-grey:rgba(153,153,153);
+    margin-top: 15px;
+}
+
+  .pot{
+    width:5rem;
+    height:3.5rem;
+   
+    color:#fff;
+    
+}
